@@ -14,7 +14,7 @@ def hello():
 
 
 @app.route('/hbnb', strict_slashes=False)
-def holberon():
+def holberton():
     return 'HBNB'
 
 
